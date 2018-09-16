@@ -5,7 +5,7 @@ The no-config [Parcel.js](https://parceljs.org/) bundler still requires a bit of
 ### Usage
 
 - `git clone git@github.com:mattcdowning/parcel-static-starter.git`
-- `cd parcel-starter`
+- `cd parcel-static-starter`
 - `npm i`
 - `npm start`
 - Profit.
