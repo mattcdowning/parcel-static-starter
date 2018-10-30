@@ -8,9 +8,9 @@
         "build": "parcel src/build index.html"
     },
     "dependencies": {
-        "autoprefixer": "^9.0",
+        "autoprefixer": "^9.3.1",
         "babel-preset-env": "^1.6.1",
-        "parcel-bundler": "^1.6.1",
-        "node-sass": "^4.9.3"
+        "node-sass": "^4.9.4",
+        "parcel-bundler": "^1.10.0"
     }
 }
