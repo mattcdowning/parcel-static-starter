@@ -1,1 +1,1 @@
-import '../styles/main.scss'
+console.log('Parcel Static Starter says hello!')

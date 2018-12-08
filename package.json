@@ -1,6 +1,6 @@
 {
     "name": "parcel-static-starter",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Parcel Static Starter",
     "main": "index.html",
     "scripts": {
@@ -12,5 +12,8 @@
         "babel-preset-env": "^1.6.1",
         "node-sass": "^4.9.4",
         "parcel-bundler": "^1.10.0"
+    },
+    "devDependencies": {
+        "babel-core": "^6.26.3"
     }
 }
