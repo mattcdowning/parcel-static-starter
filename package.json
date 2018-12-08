@@ -1,19 +1,19 @@
 {
-    "name": "parcel-static-starter",
-    "version": "1.0.1",
-    "description": "Parcel Static Starter",
-    "main": "index.html",
-    "scripts": {
-        "start": "parcel src/index.html --open",
-        "build": "parcel src/build index.html"
-    },
-    "dependencies": {
-        "autoprefixer": "^9.3.1",
-        "babel-preset-env": "^1.6.1",
-        "node-sass": "^4.9.4",
-        "parcel-bundler": "^1.10.0"
-    },
-    "devDependencies": {
-        "babel-core": "^6.26.3"
-    }
+  "name": "parcel-static-starter",
+  "version": "1.0.1",
+  "description": "Parcel Static Starter",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "dependencies": {
+    "autoprefixer": "^9.3.1",
+    "babel-preset-env": "^1.6.1",
+    "node-sass": "^4.9.4",
+    "parcel-bundler": "^1.10.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3"
+  }
 }
