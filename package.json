@@ -2,6 +2,11 @@
   "name": "parcel-static-starter",
   "version": "1.0.1",
   "description": "Parcel Static Starter",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mattcdowning/parcel-static-starter.git"
+  },
   "main": "index.html",
   "scripts": {
     "start": "parcel src/index.html",
@@ -10,10 +15,12 @@
   "dependencies": {
     "autoprefixer": "^9.6.0",
     "babel-preset-env": "^1.7.0",
+    "caniuse-lite": "^1.0.30000979",
     "node-sass": "^4.12.0",
     "parcel-bundler": "^1.12.3"
   },
   "devDependencies": {
-    "babel-core": "^6.26.3"
+    "babel-core": "^6.26.3",
+    "sass": "^1.22.3"
   }
 }
