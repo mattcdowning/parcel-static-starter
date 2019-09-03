@@ -13,14 +13,14 @@
     "build": "parcel build src/index.html"
   },
   "dependencies": {
-    "autoprefixer": "^9.6.0",
+    "autoprefixer": "^9.6.1",
     "babel-preset-env": "^1.7.0",
-    "caniuse-lite": "^1.0.30000979",
+    "caniuse-lite": "^1.0.30000989",
     "node-sass": "^4.12.0",
     "parcel-bundler": "^1.12.3"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
-    "sass": "^1.22.3"
+    "sass": "^1.22.10"
   }
 }
